@@ -24,3 +24,18 @@ git commit
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
+通过在一行或多行文本前面添加 - 或 * 可创建无序列表
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+要对列表排序，请在每行前面添加一个编号
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+嵌套列表
+1. 第一个列表项
+   -  第一个嵌套列表项
+     - 第二个嵌套列表项
